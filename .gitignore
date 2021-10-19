@@ -1,5 +1,6 @@
 files/
 drivers/
 venv/
+.vscode/*
 
 chromedriver
